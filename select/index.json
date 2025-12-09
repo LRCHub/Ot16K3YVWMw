@@ -1,0 +1,216 @@
+{
+  "version": 1,
+  "base_track": "trust you",
+  "base_artist": "Yuna Ito",
+  "createdAt": "2025-12-09T08:32:54.962443Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Can I Trust You With My Heart",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/01_Can_I_Trust_You_With_My_Heart_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Can I Trust You With My Heart",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/02_Can_I_Trust_You_With_My_Heart_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Can I Trust You With My Heart (2006 Remaster)",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/03_Can_I_Trust_You_With_My_Heart_(2006_Remaster)_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Can I Trust You With My Heart (LP Version)",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/04_Can_I_Trust_You_With_My_Heart_(LP_Version)_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Trust You",
+      "artist": "Olive",
+      "has_synced": false,
+      "path": "select/05_Trust_You_Olive.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Trust You to Dig My Grave",
+      "artist": "Ben Harper feat. Charlie Musselwhite",
+      "has_synced": true,
+      "path": "select/06_Trust_You_to_Dig_My_Grave_Ben_Harper_feat._Charlie_Musselwhite.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Trust You to Dig My Grave",
+      "artist": "Ben Harper",
+      "has_synced": true,
+      "path": "select/07_Trust_You_to_Dig_My_Grave_Ben_Harper.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Trust You to Dig My Grave (Live at Machine Shop)",
+      "artist": "Ben Harper feat. Charlie Musselwhite",
+      "has_synced": false,
+      "path": "select/08_Trust_You_to_Dig_My_Grave_(Live_at_Machine_Shop)_Ben_Harper_feat._Charlie_Musselwhite.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Trust You to Dig My Grave (live at Machine Shop)",
+      "artist": "Ben Harper",
+      "has_synced": false,
+      "path": "select/09_Trust_You_to_Dig_My_Grave_(live_at_Machine_Shop)_Ben_Harper.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Eye Love U, But Eye Don't Trust You Anymore",
+      "artist": "Prince",
+      "has_synced": false,
+      "path": "select/10_Eye_Love_U,_But_Eye_Don't_Trust_You_Anymore_Prince.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Why Trust You",
+      "artist": "Alice Cooper",
+      "has_synced": true,
+      "path": "select/11_Why_Trust_You_Alice_Cooper.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Trust You",
+      "artist": "Skillet",
+      "has_synced": true,
+      "path": "select/12_I_Trust_You_Skillet.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Trust you",
+      "artist": "Kumi Koda",
+      "has_synced": false,
+      "path": "select/13_Trust_you_Kumi_Koda.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Trust you",
+      "artist": "Koda Kumi",
+      "has_synced": false,
+      "path": "select/14_Trust_you_Koda_Kumi.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Knew I Couldn't Trust You",
+      "artist": "Silverstein",
+      "has_synced": true,
+      "path": "select/15_I_Knew_I_Couldn't_Trust_You_Silverstein.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Trust You",
+      "artist": "Billy Paul",
+      "has_synced": true,
+      "path": "select/16_I_Trust_You_Billy_Paul.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "trust you",
+      "artist": "伊藤 由奈",
+      "has_synced": false,
+      "path": "select/pl_01_trust_you_伊藤_由奈.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Trust you",
+      "artist": "伊藤 由奈",
+      "has_synced": false,
+      "path": "select/pl_02_Trust_you_伊藤_由奈.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "trust you",
+      "artist": "伊藤 由奈",
+      "has_synced": false,
+      "path": "select/pl_03_trust_you_伊藤_由奈.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "trust you",
+      "artist": "伊藤 由奈",
+      "has_synced": false,
+      "path": "select/pl_04_trust_you_伊藤_由奈.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Trust You",
+      "artist": "伊藤 由奈",
+      "has_synced": false,
+      "path": "select/pl_05_Trust_You_伊藤_由奈.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "trust you",
+      "artist": "伊藤 由奈",
+      "has_synced": false,
+      "path": "select/pl_06_trust_you_伊藤_由奈.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "trust you",
+      "artist": "伊藤 由奈",
+      "has_synced": false,
+      "path": "select/pl_07_trust_you_伊藤_由奈.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "trust you",
+      "artist": "伊藤 由奈",
+      "has_synced": false,
+      "path": "select/pl_08_trust_you_伊藤_由奈.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "trust you",
+      "artist": "伊藤 由奈",
+      "has_synced": false,
+      "path": "select/pl_09_trust_you_伊藤_由奈.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "trust you",
+      "artist": "伊藤 由奈",
+      "has_synced": false,
+      "path": "select/pl_10_trust_you_伊藤_由奈.txt"
+    }
+  ]
+}
